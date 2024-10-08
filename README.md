@@ -1,2 +1,1 @@
-# Terraform-Github
-Terraform is used to create to launch instance in AWS by connecting with Github
+# terraform-cloud-demo
